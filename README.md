@@ -1,4 +1,4 @@
-###AHT10 Driver for Raspberry Pi 4
+##AHT10 Driver for Raspberry Pi 4
 
 This is a simple driver to use the AHT10 temperature and humidity sensor
 with the Raspberry Pi. 
