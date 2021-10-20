@@ -1,3 +1,9 @@
+/*
+ * rpi_temp.c
+ *
+ * Created: 20/10/2021 
+ *  Author: Niuslar
+ */ 
 
 #include <stdio.h>
 #include "aht10_driver.h"
